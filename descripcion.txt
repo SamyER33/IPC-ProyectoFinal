@@ -1,0 +1,3 @@
+El problema es que se requiere una cotización tomando en cuenta la edad del que va a comprar el seguro, la edad de su pareja, su sueldo y cuantas casas tiene, también se toma en cuenta la cantidad de los hijos
+
+
