@@ -8,9 +8,6 @@ El programa pide la edad del asegurado, la edad del cónyugue, pide cuántos hij
 Se agregó un primer filtro que es la edad del asegurado.
 Luego de ésto si es mayor de edad, se agregan las distintas variables solicitadas, con los distintos valores en base a la edad del asegurado.
 
-## Solución
-
-Se podría mejorar la funcion principal ya que es demasiado extensa y no se entiende muy bien.
 
 ## Estudiante
 23005735 - Brenda Samara Escobar Avila
