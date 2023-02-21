@@ -1,6 +1,6 @@
-1. Se pide la edad de la persona quien contrata y si es menor de edad se para el programa
-2. Se pregunta si tiene pareja
-3. Se calcula el extra de la cotización dependiendo del la edad de la pareja y de quién contrata el servicio
-4. Se agrega un 5% en base al sueldo de quien contrata el seguro
-5. Se agrega un 35% al costo en base a las propiedades que tiene la persona
-6. Se pregunta si se quiere salir, sino se sigue cotizando
+1. Se pide la edad de la persona quien contrata el servicio y si es menor de edad se detiene el programa.
+2. Se pregunta si tiene pareja.
+3. Se calcula el extra de la cotización dependiendo de la edad de la pareja y de quién contrata el servicio.
+4. Se agrega un 5% en base al sueldo base de quien contrata el seguro.
+5. Se agrega un 35% al costo, en base a las propiedades o bienes que tiene la persona que contrata el servicio.
+6. Se pregunta si se quiere salir, si no, se sigue cotizando.
